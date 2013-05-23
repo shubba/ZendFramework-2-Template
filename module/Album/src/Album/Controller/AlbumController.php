@@ -26,17 +26,17 @@ protected $albumTable;
 
     public function addAction()
     {
-        echo "Add works";
+      
     }
 
     public function editAction()
     {
-          echo "edit works";
+         
     }
 
     public function deleteAction()
     {
-          echo "delete works";
+        
     }
     
     // module/Album/src/Album/Controller/AlbumController.php:
